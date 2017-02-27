@@ -129,6 +129,7 @@ label {
 
 .search-button {
   vertical-align: bottom;
+  size: 50%
 }
 
 .star-icon, .magnifying-glass-icon {
