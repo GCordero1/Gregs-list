@@ -5,7 +5,6 @@
 body {
   margin: 0;
   padding: 80px;
-
   font-family: "Roboto", sans-serif;
 }
 
@@ -15,7 +14,6 @@ header {
   left: 0;
   right: 0;
   padding: 10px;
-
   background-color: #EEEEEE;
   border-bottom: 1px solid #DDDDDD;
 }
